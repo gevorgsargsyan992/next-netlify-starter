@@ -8,7 +8,7 @@ export default function Home() {
       <Image src={logo} width={260} alt="Under Construction"></Image>
       <Image src={construction} width={790} alt="Under Construction" />
       <p className=" text-xl text-gray-700 text-center">
-        We're currently working on this page. Please check back later!
+        We currently working on this page. Please check back later!
       </p>
     </div>
   );
